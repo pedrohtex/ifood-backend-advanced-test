@@ -36,6 +36,15 @@ Fork this repository and submit your code.
 npm install
 npm start
 ```
+* Open up a browser and go to:
+```
+http://localhost:3000
+```
+
+* Swagger Doc go to:
+```
+http://localhost:3000/api-docs
+```
 
 * To run unit tests
 ```
