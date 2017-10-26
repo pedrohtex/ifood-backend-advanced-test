@@ -1,0 +1,28 @@
+{
+  "name": "ifood-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.27.0",
+    "express": "^4.16.2",
+    "moment": "^2.19.1",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "validator": "^9.1.0",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "node-mocks-http": "^1.6.6",
+    "swagger-jsdoc": "^1.9.7"
+  }
+}

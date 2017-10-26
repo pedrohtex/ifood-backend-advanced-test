@@ -23,4 +23,21 @@ Also, briefly elaborate on your solution, architecture details, choice of patter
 
 Fork this repository and submit your code.
 
- 
+## Prerequisites
+
+* Node 8.x
+* NPM 4.x
+
+## How to run
+
+* Download and install nodejs  
+* Run the following commands:
+```
+npm install
+npm start
+```
+
+* To run unit tests
+```
+npm test
+```

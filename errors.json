@@ -1,0 +1,12 @@
+{
+    "INVALID_REQUEST": {
+        "message": "Invalid Request",
+        "name": "INVALID_REQUEST",
+        "code": 400
+    },
+    "INTERNAL_ERROR": {
+        "message": "Internal Server Error",
+        "name": "INTERNAL_ERROR",
+        "code": 500
+    }
+}

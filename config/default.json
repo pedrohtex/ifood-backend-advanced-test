@@ -1,0 +1,13 @@
+{
+    "port": 3000,
+    
+    "OPENWEATHERMAP_KEY": "5ac63bb8e01007c400842a371ad6ec71",
+    "OPENWEATHERMAP_TIMEOUT": 2000,
+    "OPENWEATHERMAP_WEATHER_URL": "http://api.openweathermap.org/data/2.5/weather",
+    "SPOTIFY_CLIENT_ID": "01a5b01a00f64128833c6010af8fbdb4",
+    "SPOTIFY_CLIENT_SECRET": "0b948bd87c7d48ed9a2edc50ded2488d",
+    "SPOTIFY_TIMEOUT": 2000,
+    "SPOTIFY_AUTH_URL": "https://accounts.spotify.com/api/token",
+    "SPOTIFY_PLAYLIST_URL": "https://api.spotify.com/v1/browse/categories/classical/playlists",
+    "SPOTIFY_TRACKLIST_URL": "https://api.spotify.com/v1/browse/categories/$1/playlists"
+}
